@@ -91,53 +91,7 @@
                             ]
                         }
                     ]
-                },
-                {
-                    "day": "31",
-                    "foodCategories": [
-                        {
-                            "categoryName": "Lunch Entree",
-                            "foodItems": [
-                                {
-                                    "itemName": "Grab 'n' Go Lunch",
-                                    "attributeCategories": []
-                                }
-                            ]
-                        },
-                        {
-                            "categoryName": "Vegetables",
-                            "foodItems": [
-                                {
-                                    "itemName": "Fresh Fruit Variety",
-                                    "attributeCategories": []
-                                }
-                            ]
-                        },
-                        {
-                            "categoryName": "Fruit",
-                            "foodItems": [
-                                {
-                                    "itemName": "Fresh Fruit Variety",
-                                    "attributeCategories": []
-                                }
-                            ]
-                        },
-                        {
-                            "categoryName": "Milk",
-                            "foodItems": [
-                                {
-                                    "itemName": "1% Organic Milk, Unflavored",
-                                    "attributeCategories": []
-                                },
-                                {
-                                    "itemName": "Fat Free Milk, Unflavored",
-                                    "attributeCategories": []
-                                }
-                            ]
-                        }
-                    ]
-                }
-            ]
+                }            ]
         }
     ],
   "profile": {
