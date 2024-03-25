@@ -9,3 +9,9 @@ git branch -M main
 git remote add origin https://github.com/gopinaath/stubs.git
 git push -u origin main
 ```
+
+
+```
+https://my-json-server.typicode.com/gopinaath/stubs/months/
+
+```
