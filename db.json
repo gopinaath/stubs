@@ -4,46 +4,6 @@
             "monthName": "January",
             "days": [
                 {
-                    "day": "08",
-                    "foodCategories": []
-                },
-                {
-                    "day": "09",
-                    "foodCategories": [
-                        {
-                            "categoryName": "Lunch Entree",
-                            "foodItems": [
-                                {
-                                    "itemName": "Mac 'n' Cheese",
-                                    "attributeCategories": []
-                                },
-                                {
-                                    "itemName": "Grab 'n' Go Lunch",
-                                    "attributeCategories": []
-                                }
-                            ]
-                        },
-                        {
-                            "categoryName": "Vegetables",
-                            "foodItems": [
-                                {
-                                    "itemName": "Fresh Fruit Variety",
-                                    "attributeCategories": []
-                                }
-                            ]
-                        },
-                        {
-                            "categoryName": "Fruit",
-                            "foodItems": [
-                                {
-                                    "itemName": "Fresh Fruit Variety",
-                                    "attributeCategories": []
-                                }
-                            ]
-                        }
-                    ]
-                },
-                {
                     "day": "30",
                     "foodCategories": [
                         {
