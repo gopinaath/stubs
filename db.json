@@ -5,47 +5,12 @@
             "days": [
                 {
                     "day": "30",
-                    "foodCategories": [
-                        {
-                            "categoryName": "Lunch Entree",
-                            "foodItems": [
-                                {
-                                    "itemName": "Turkey Nachos",
-                                    "attributeCategories": []
-                                },
-                                {
-                                    "itemName": "Veggie Nachos",
-                                    "attributeCategories": []
-                                }
-                            ]
-                        },
-                        {
-                            "categoryName": "Vegetables",
-                            "foodItems": [
-                                {
-                                    "itemName": "Fresh Fruit Variety",
-                                    "attributeCategories": []
-                                }
-                            ]
-                        },
-                        {
-                            "categoryName": "Fruit",
-                            "foodItems": [
-                                {
-                                    "itemName": "Fresh Fruit Variety",
-                                    "attributeCategories": []
-                                }
-                            ]
-                        },
+                    "foodCategories": [                        
                         {
                             "categoryName": "Milk",
                             "foodItems": [
                                 {
                                     "itemName": "1% Organic Milk, Unflavored",
-                                    "attributeCategories": []
-                                },
-                                {
-                                    "itemName": "Fat Free Milk, Unflavored",
                                     "attributeCategories": []
                                 }
                             ]
